@@ -1,6 +1,7 @@
 # Customer Invoice Management
 
 This project includes an application where a customer can create an order, save and view their invoices. At the end of this article, I created the maven project and ran the Maven commands and added the output.
+
 The application has been developed in accordance with SOLID principles and includes the following features:
 
 - Can list all customers.
